@@ -8,8 +8,7 @@ class MainClass
         string myName;
         myName = "Olga";
 
-        Console.WriteLine(myName);
-
+        Console.WriteLine(myName);        
         Console.ReadKey();
     }
 }
